@@ -19,7 +19,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|195|[Tenth Line](https://leetcode.com/problems/tenth-line/) |[BASH](./shell/1.TwoSum.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line/) |[BASH](./shell/195.TenthLine.sh)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 
 ### Concurrency
 
