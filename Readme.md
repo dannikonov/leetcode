@@ -14,6 +14,7 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](./database/175.CombineTwoTables.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](./database/176.SecondHighestSalary.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+|178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[SQL](./database/178.RankScores.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 
 ### Shell
 
