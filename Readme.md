@@ -22,6 +22,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) |[BASH](./shell/193.ValidPhoneNumbers.sh)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/) |[BASH](./shell/195.TenthLine.sh)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 
 ### Concurrency
