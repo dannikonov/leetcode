@@ -8,6 +8,7 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) |[PHP](./algorithms/php/1.TwoSum.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |[PHP](./algorithms/php/2.AddTwoNumbers.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[PHP](./algorithms/php/4.MedianofTwoSortedArrays.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |[PHP](./algorithms/php/20.ValidParentheses.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 
 ### Database
 
