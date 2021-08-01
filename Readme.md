@@ -21,6 +21,7 @@ LeetCode
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](./database/176.SecondHighestSalary.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[SQL](./database/178.RankScores.sql)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[SQL](./database/184.DepartmentHighestSalary.sql)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[SQL](./database/197.RisingTemperature.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 
 ### Shell
 
