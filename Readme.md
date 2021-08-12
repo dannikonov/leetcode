@@ -24,6 +24,7 @@ LeetCode
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](./database/175.CombineTwoTables.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](./database/176.SecondHighestSalary.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[SQL](./database/178.RankScores.sql)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[SQL](./database/177.NthHighestSalary.sql)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[SQL](./database/180.ConsecutiveNumbers.sql)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[SQL](./database/184.DepartmentHighestSalary.sql)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/duplicate-emails/)|[SQL](./database/181.EmployeesEarningMoreThanTheirManagers.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
