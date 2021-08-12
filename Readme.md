@@ -26,6 +26,7 @@ LeetCode
 |178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[SQL](./database/178.RankScores.sql)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[SQL](./database/180.ConsecutiveNumbers.sql)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[SQL](./database/184.DepartmentHighestSalary.sql)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+|196|[DeleteDuplicateEmails.sql](https://leetcode.com/problems/delete-duplicate-emails/)|[SQL](./database/196.DeleteDuplicateEmails.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[SQL](./database/197.RisingTemperature.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 
 ### Shell
