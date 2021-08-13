@@ -13,6 +13,7 @@ LeetCode
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[PHP](./algorithms/php/21.MergeTwoSortedLists.php), [C++](./algorithms/cpp/21.MergeTwoSortedLists.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |[PHP](./algorithms/php/42.TrappingRainWater.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[PHP](./algorithms/php/49.GroupAnagrams.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |[PHP](./algorithms/php/73.SetMatrixZeroes.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/) |[PHP](./algorithms/php/90.SubsetsII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/) |[PHP](./algorithms/php/542.01Matrix.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) |[PHP](./algorithms/php/926.FlipStringtoMonotoneIncreasing.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
