@@ -23,28 +23,18 @@ class Solution {
         return $this->dfs($root);
     }
 
-    function dfs($node, $path = []) {
-        if (empty($path)) {
-            $path[] = $node->val;
-            return 1 + $this->dfs($node->left, $path) + $this->dfs($node->right, $path);
+    function dfs($node, $max = -INF) {
+        if (!isset($node)) {
+            return 0;
         }
 
-        if ($node) {
-            $cnt = 0;
-            if ($this->array_test($path, $node->val)) {
-                $cnt = 1;
-                echo $node->val;
-            }
+        $good = 0;
 
-            $path[] = $node->val;
-
-            return $cnt + $this->dfs($node->left, $path) + $this->dfs($node->right, $path);
+        if ($node->val >= $max) {
+            $good++;
+            $max = $node->val;
         }
-    }
 
-    function array_test($array, $value) {
-        return !in_array(false, array_map(function($item) use ($value) {
-            return $item <= $value;
-        }, $array));
+        return $good + $this->dfs($node->left, $max) + $this->dfs($node->right, $max);
     }
 }
