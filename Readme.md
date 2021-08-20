@@ -20,7 +20,7 @@ LeetCode
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) |[PHP](./algorithms/php/415.AddStrings.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/) |[PHP](./algorithms/php/542.01Matrix.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) |[PHP](./algorithms/php/926.FlipStringtoMonotoneIncreasing.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
-|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) |[PHP](./algorithms/php/1448.CountGoodNodesinBinaryTree.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) |[PHP](./algorithms/php/1448.CountGoodNodesinBinaryTree.php), [C++](./algorithms/cpp/1448.CountGoodNodesinBinaryTree.cpp)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 
 ### Database
 

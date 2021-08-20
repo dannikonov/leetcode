@@ -1,15 +1,13 @@
 #include "ListNode.h"
 
 ListNode *make_list(vector<int> &array) {
-    ListNode *list;
-    ListNode *head;
+    ListNode *list = nullptr;
+    ListNode *head = nullptr;
 
-    bool first = true;
     for (auto item : array) {
-        if (first) {
+        if (head == nullptr) {
             list = new ListNode(item);
             head = list;
-            first = false;
         } else {
             list->next = new ListNode(item);
             list = list->next;
