@@ -23,6 +23,7 @@ LeetCode
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) |[PHP](./algorithms/php/926.FlipStringtoMonotoneIncreasing.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) |[C++](./algorithms/cpp/1339.MaximumProductofSplittedBinaryTree.cpp)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) |[PHP](./algorithms/php/1448.CountGoodNodesinBinaryTree.php), [C++](./algorithms/cpp/1448.CountGoodNodesinBinaryTree.cpp)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+|1974|[Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |[PHP](./algorithms/php/1974.MinimumTimetoTypeWordUsingSpecialTypewriter.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 
 ### Database
 

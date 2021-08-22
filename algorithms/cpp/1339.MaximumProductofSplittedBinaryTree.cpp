@@ -55,7 +55,7 @@ int main() {
     vector<int> in2{1, -1, 2, 3, 4, -1, -1, 5, 6}; // 90
     vector<int> in3{2, 3, 9, 10, 7, 8, 6, 5, 4, 11, 1}; // 1025
     vector<int> in4{1, 1}; // 1
-    TreeNode *t1 = make_tree(in3);
+    TreeNode *t1 = make_tree(in2);
     print_tree(t1);
     Solution s;
     cout << s.maxProduct(t1);
