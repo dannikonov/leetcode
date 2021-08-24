@@ -20,6 +20,7 @@ LeetCode
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |[PHP](./algorithms/php/303.RangeSumQuery-Immutable.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) |[PHP](./algorithms/php/415.AddStrings.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/) |[PHP](./algorithms/php/542.01Matrix.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+|653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)  |[C++](./algorithms/cpp/653.TwoSumIV-InputisaBST.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) |[C++](./algorithms/cpp/850.RectangleAreaII.cpp)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) |[PHP](./algorithms/php/926.FlipStringtoMonotoneIncreasing.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 |1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) |[C++](./algorithms/cpp/1339.MaximumProductofSplittedBinaryTree.cpp)|<span style="color: rgb(239, 108, 0)">Medium</span>|
