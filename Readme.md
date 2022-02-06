@@ -39,6 +39,10 @@ LeetCode
 | 1974 |[Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |[PHP](./algorithms/php/1974.MinimumTimetoTypeWordUsingSpecialTypewriter.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 1979 |[Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) |[PHP](./algorithms/php/1979.FindGreatestCommonDivisorofArray.php), [C++](./algorithms/cpp/1979.FindGreatestCommonDivisorofArray.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 2154 |[Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) |[PHP](./algorithms/php/2154.KeepMultiplyingFoundValuesbyTwo.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 2160 |[Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) |[PHP](./algorithms/php/2160.MinimumSumofFourDigitNumberAfterSplittingDigits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 2161 |[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) |[PHP](./algorithms/php/2161.PartitionArrayAccordingtoGivenPivot.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 2164 |[Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) |[PHP](./algorithms/php/2164.SortEvenandOddIndicesIndependently.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 2165 |[Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) |[PHP](./algorithms/php/2165.SmallestValueoftheRearrangedNumber.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 
 ### Database
 
