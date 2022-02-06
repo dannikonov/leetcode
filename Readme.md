@@ -43,6 +43,7 @@ LeetCode
 | 2161 |[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) |[PHP](./algorithms/php/2161.PartitionArrayAccordingtoGivenPivot.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 2164 |[Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) |[PHP](./algorithms/php/2164.SortEvenandOddIndicesIndependently.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 2165 |[Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) |[PHP](./algorithms/php/2165.SmallestValueoftheRearrangedNumber.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 2166 |[Design Bitse](https://leetcode.com/problems/design-bitset/) |[PHP](./algorithms/php/2166.DesignBitset.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 
 ### Database
 
