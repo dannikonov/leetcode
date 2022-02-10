@@ -28,6 +28,7 @@ LeetCode
 | 532    |[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |[PHP](./algorithms/php/532.K-diffPairsinanArray.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 537  |[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) |[PHP](./algorithms/php/537.ComplexNumberMultiplication.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 542  |[01 Matrix](https://leetcode.com/problems/01-matrix/) |[PHP](./algorithms/php/542.01Matrix.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 560  |[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |[PHP](./algorithms/php/560.SubarraySumEqualsK.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 598  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/) |[C++](./algorithms/cpp/598.RangeAdditionII.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 633  |[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) |[PHP](./algorithms/php/633.SumofSquareNumbers.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 653  |[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)  |[C++](./algorithms/cpp/653.TwoSumIV-InputisaBST.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
