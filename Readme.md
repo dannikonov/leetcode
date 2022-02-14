@@ -18,6 +18,7 @@ LeetCode
 | 73   |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |[PHP](./algorithms/php/73.SetMatrixZeroes.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 90   |[Subsets II](https://leetcode.com/problems/subsets-ii/) |[PHP](./algorithms/php/90.SubsetsII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 91   |[Decode Ways](https://leetcode.com/problems/decode-ways/) |[PHP](./algorithms/php/91.DecodeWays.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 104   |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[PHP](./algorithms/php/104.MaximumDepthofBinaryTree.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 121  |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) |[PHP](./algorithms/php/121.BestTimetoBuyandSellStock.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 258   |[Add Digits](https://leetcode.com/problems/add-digits/) |[PHP](./algorithms/php/258.AddDigits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 303  |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |[PHP](./algorithms/php/303.RangeSumQuery-Immutable.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
