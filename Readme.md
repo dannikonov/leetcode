@@ -12,6 +12,7 @@ LeetCode
 | 9    |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[PHP](./algorithms/php/9.PalindromeNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |[PHP](./algorithms/php/20.ValidParentheses.php), [C++](./algorithms/cpp/20.ValidParentheses.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 21   |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[PHP](./algorithms/php/21.MergeTwoSortedLists.php), [C++](./algorithms/cpp/21.MergeTwoSortedLists.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 24   |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |[PHP](./algorithms/php/24.SwapNodesinPairs.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 36   |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[PHP](./algorithms/php/36.ValidSudoku.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 42   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |[PHP](./algorithms/php/42.TrappingRainWater.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 49   |[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[PHP](./algorithms/php/49.GroupAnagrams.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
@@ -34,7 +35,7 @@ LeetCode
 | 567  |[Permutation in String](https://leetcode.com/problems/permutation-in-string/) |[PHP](./algorithms/php/567.PermutationinString.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 598  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/) |[C++](./algorithms/cpp/598.RangeAdditionII.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 633  |[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) |[PHP](./algorithms/php/633.SumofSquareNumbers.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
-| 653  |[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)  |[C++](./algorithms/cpp/653.TwoSumIV-InputisaBST.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 653  |[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |[C++](./algorithms/cpp/653.TwoSumIV-InputisaBST.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 850  |[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) |[C++](./algorithms/cpp/850.RectangleAreaII.cpp)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 926  |[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) |[PHP](./algorithms/php/926.FlipStringtoMonotoneIncreasing.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 937  |[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) |[PHP](./algorithms/php/937.ReorderDatainLogFiles.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
