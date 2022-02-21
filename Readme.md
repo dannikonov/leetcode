@@ -24,6 +24,7 @@ LeetCode
 | 104   |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[PHP](./algorithms/php/104.MaximumDepthofBinaryTree.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 121  |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) |[PHP](./algorithms/php/121.BestTimetoBuyandSellStock.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 136   |[Single Number](https://leetcode.com/problems/single-number/) |[PHP](./algorithms/php/136.SingleNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 169  |[Majority Element](https://leetcode.com/problems/majority-element/submissions/) |[PHP](./algorithms/php/169.MajorityElement.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 258   |[Add Digits](https://leetcode.com/problems/add-digits/) |[PHP](./algorithms/php/258.AddDigits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 303  |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |[PHP](./algorithms/php/303.RangeSumQuery-Immutable.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 389  |[Find the Difference](https://leetcode.com/problems/find-the-difference/) |[PHP](./algorithms/php/389.FindtheDifference.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
