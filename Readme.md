@@ -21,20 +21,20 @@ LeetCode
 | 78   |[Subsets](https://leetcode.com/problems/subsets/) |[PHP](./algorithms/php/78.Subsets.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 90   |[Subsets II](https://leetcode.com/problems/subsets-ii/) |[PHP](./algorithms/php/90.SubsetsII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 91   |[Decode Ways](https://leetcode.com/problems/decode-ways/) |[PHP](./algorithms/php/91.DecodeWays.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
-| 104   |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[PHP](./algorithms/php/104.MaximumDepthofBinaryTree.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 104  |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[PHP](./algorithms/php/104.MaximumDepthofBinaryTree.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 121  |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) |[PHP](./algorithms/php/121.BestTimetoBuyandSellStock.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
-| 133   |[Clone Graph](https://leetcode.com/problems/clone-graph/) |[PHP](./algorithms/php/133.CloneGraph.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
-| 136   |[Single Number](https://leetcode.com/problems/single-number/) |[PHP](./algorithms/php/136.SingleNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 133  |[Clone Graph](https://leetcode.com/problems/clone-graph/) |[PHP](./algorithms/php/133.CloneGraph.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 136  |[Single Number](https://leetcode.com/problems/single-number/) |[PHP](./algorithms/php/136.SingleNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 165  |[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) |[PHP](./algorithms/php/165.CompareVersionNumbers.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 169  |[Majority Element](https://leetcode.com/problems/majority-element/submissions/) |[PHP](./algorithms/php/169.MajorityElement.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 171  |[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |[PHP](./algorithms/php/171.ExcelSheetColumnNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
-| 258   |[Add Digits](https://leetcode.com/problems/add-digits/) |[PHP](./algorithms/php/258.AddDigits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 258  |[Add Digits](https://leetcode.com/problems/add-digits/) |[PHP](./algorithms/php/258.AddDigits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 303  |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |[PHP](./algorithms/php/303.RangeSumQuery-Immutable.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 389  |[Find the Difference](https://leetcode.com/problems/find-the-difference/) |[PHP](./algorithms/php/389.FindtheDifference.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 415  |[Add Strings](https://leetcode.com/problems/add-strings/) |[PHP](./algorithms/php/415.AddStrings.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 438  |[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |[PHP](./algorithms/php/438.FindAllAnagramsinaString.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 454  |[4Sum II](https://leetcode.com/problems/4sum-ii/submissions/) |[PHP](./algorithms/php/454.4SumII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
-| 532    |[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |[PHP](./algorithms/php/532.K-diffPairsinanArray.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 532  |[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |[PHP](./algorithms/php/532.K-diffPairsinanArray.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 537  |[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) |[PHP](./algorithms/php/537.ComplexNumberMultiplication.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 542  |[01 Matrix](https://leetcode.com/problems/01-matrix/) |[PHP](./algorithms/php/542.01Matrix.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 560  |[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |[PHP](./algorithms/php/560.SubarraySumEqualsK.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
@@ -58,6 +58,8 @@ LeetCode
 | 2164 |[Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) |[PHP](./algorithms/php/2164.SortEvenandOddIndicesIndependently.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 2165 |[Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) |[PHP](./algorithms/php/2165.SmallestValueoftheRearrangedNumber.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 2166 |[Design Bitse](https://leetcode.com/problems/design-bitset/) |[PHP](./algorithms/php/2166.DesignBitset.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 2185 |[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) |[PHP](./algorithms/php/2185.CountingWordsWithaGivenPrefix.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 2186 |[Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) |[PHP](./algorithms/php/2186.MinimumNumberofStepstoMakeTwoStringsAnagramII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 
 ### Database
 
