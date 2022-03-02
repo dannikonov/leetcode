@@ -30,6 +30,7 @@ LeetCode
 | 171  |[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |[PHP](./algorithms/php/171.ExcelSheetColumnNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 258  |[Add Digits](https://leetcode.com/problems/add-digits/) |[PHP](./algorithms/php/258.AddDigits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 303  |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |[PHP](./algorithms/php/303.RangeSumQuery-Immutable.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 338  |[Counting Bits](https://leetcode.com/problems/counting-bits/) |[PHP](./algorithms/php/338.CountingBits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 389  |[Find the Difference](https://leetcode.com/problems/find-the-difference/) |[PHP](./algorithms/php/389.FindtheDifference.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 392  |[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[PHP](./algorithms/php/392.IsSubsequence.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 415  |[Add Strings](https://leetcode.com/problems/add-strings/) |[PHP](./algorithms/php/415.AddStrings.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
