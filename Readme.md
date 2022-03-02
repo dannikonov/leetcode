@@ -31,6 +31,7 @@ LeetCode
 | 258  |[Add Digits](https://leetcode.com/problems/add-digits/) |[PHP](./algorithms/php/258.AddDigits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 303  |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |[PHP](./algorithms/php/303.RangeSumQuery-Immutable.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 389  |[Find the Difference](https://leetcode.com/problems/find-the-difference/) |[PHP](./algorithms/php/389.FindtheDifference.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 392  |[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[PHP](./algorithms/php/392.IsSubsequence.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 415  |[Add Strings](https://leetcode.com/problems/add-strings/) |[PHP](./algorithms/php/415.AddStrings.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 438  |[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |[PHP](./algorithms/php/438.FindAllAnagramsinaString.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 454  |[4Sum II](https://leetcode.com/problems/4sum-ii/submissions/) |[PHP](./algorithms/php/454.4SumII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
