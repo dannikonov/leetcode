@@ -63,6 +63,8 @@ LeetCode
 | 2166 |[Design Bitse](https://leetcode.com/problems/design-bitset/) |[PHP](./algorithms/php/2166.DesignBitset.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 2185 |[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) |[PHP](./algorithms/php/2185.CountingWordsWithaGivenPrefix.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 2186 |[Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) |[PHP](./algorithms/php/2186.MinimumNumberofStepstoMakeTwoStringsAnagramII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 2190 |[Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/) |[PHP](./algorithms/php/2190.MostFrequentNumberFollowingKeyInanArray.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 2191 |[Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) |[PHP](./algorithms/php/2191.SorttheJumbledNumbers.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 
 ### Database
 
