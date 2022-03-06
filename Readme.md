@@ -44,6 +44,7 @@ LeetCode
 | 598  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/) |[C++](./algorithms/cpp/598.RangeAdditionII.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 633  |[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) |[PHP](./algorithms/php/633.SumofSquareNumbers.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 653  |[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |[C++](./algorithms/cpp/653.TwoSumIV-InputisaBST.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 740  |[Delete and Earn](https://leetcode.com/problems/delete-and-earn/) |[PHP](./algorithms/php/740.DeleteandEarn.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 850  |[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) |[C++](./algorithms/cpp/850.RectangleAreaII.cpp)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 926  |[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) |[PHP](./algorithms/php/926.FlipStringtoMonotoneIncreasing.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 937  |[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) |[PHP](./algorithms/php/937.ReorderDatainLogFiles.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
