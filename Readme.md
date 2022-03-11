@@ -17,7 +17,8 @@ LeetCode
 | 39   |[Combination Sum](https://leetcode.com/problems/combination-sum/) |[PHP](./algorithms/php/39.CombinationSum.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 42   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |[PHP](./algorithms/php/42.TrappingRainWater.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 49   |[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[PHP](./algorithms/php/49.GroupAnagrams.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
-| 73   |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |[PHP](./algorithms/php/73.SetMatrixZeroes.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+ | 61   |[Rotate List](https://leetcode.com/problems/rotate-list/) |[PHP](./algorithms/php/61.RotateList.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+ | 73   |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |[PHP](./algorithms/php/73.SetMatrixZeroes.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 78   |[Subsets](https://leetcode.com/problems/subsets/) |[PHP](./algorithms/php/78.Subsets.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 82   |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |[PHP](./algorithms/php/82.RemoveDuplicatesfromSortedListII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 90   |[Subsets II](https://leetcode.com/problems/subsets-ii/) |[PHP](./algorithms/php/90.SubsetsII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
