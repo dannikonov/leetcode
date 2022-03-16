@@ -54,6 +54,7 @@ LeetCode
 | 850  |[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) |[C++](./algorithms/cpp/850.RectangleAreaII.cpp)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 926  |[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) |[PHP](./algorithms/php/926.FlipStringtoMonotoneIncreasing.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 937  |[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) |[PHP](./algorithms/php/937.ReorderDatainLogFiles.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 946  |[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) |[PHP](./algorithms/php/946.ValidateStackSequences.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 1189 |[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) |[PHP](./algorithms/php/1189.MaximumNumberofBalloons.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 1235 |[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) |[PHP](./algorithms/php/1235.MaximumProfitinJobScheduling.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 1249 |[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) |[PHP](./algorithms/php/1249.MinimumRemovetoMakeValidParentheses.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
