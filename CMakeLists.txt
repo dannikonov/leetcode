@@ -7,4 +7,4 @@ add_executable(leetcode
         algorithms/cpp/functions.cpp algorithms/cpp/functions.h
         algorithms/cpp/ListNode.cpp algorithms/cpp/ListNode.h
         algorithms/cpp/TreeNode.cpp algorithms/cpp/TreeNode.h
-        algorithms/cpp/598.RangeAdditionII.cpp)
+        algorithms/cpp/856.ScoreofParentheses.cpp)
