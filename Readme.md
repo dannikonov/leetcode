@@ -36,6 +36,7 @@ LeetCode
 | 257  |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |[PHP](./algorithms/php/257.BinaryTreePaths.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 258  |[Add Digits](https://leetcode.com/problems/add-digits/) |[PHP](./algorithms/php/258.AddDigits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 303  |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |[PHP](./algorithms/php/303.RangeSumQuery-Immutable.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 316  |[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |[PHP](./algorithms/php/316.RemoveDuplicateLetters.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 338  |[Counting Bits](https://leetcode.com/problems/counting-bits/) |[PHP](./algorithms/php/338.CountingBits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 389  |[Find the Difference](https://leetcode.com/problems/find-the-difference/) |[PHP](./algorithms/php/389.FindtheDifference.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 392  |[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[PHP](./algorithms/php/392.IsSubsequence.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
@@ -57,6 +58,7 @@ LeetCode
 | 926  |[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) |[PHP](./algorithms/php/926.FlipStringtoMonotoneIncreasing.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 937  |[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) |[PHP](./algorithms/php/937.ReorderDatainLogFiles.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 946  |[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) |[PHP](./algorithms/php/946.ValidateStackSequences.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 1081  |[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/validate-stack-sequences/) |[PHP](./algorithms/php/1081.SmallestSubsequenceofDistinctCharacters.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 1189 |[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) |[PHP](./algorithms/php/1189.MaximumNumberofBalloons.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 1235 |[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) |[PHP](./algorithms/php/1235.MaximumProfitinJobScheduling.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 1249 |[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) |[PHP](./algorithms/php/1249.MinimumRemovetoMakeValidParentheses.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
