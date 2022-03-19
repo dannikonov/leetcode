@@ -55,6 +55,7 @@ LeetCode
 | 799  |[Champagne Tower](https://leetcode.com/problems/champagne-tower/) |[PHP](./algorithms/php/799.ChampagneTower.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 850  |[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) |[C++](./algorithms/cpp/850.RectangleAreaII.cpp)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 856  |[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) |[PHP](./algorithms/php/856.ScoreofParentheses.php), [C++](./algorithms/cpp/856.ScoreofParentheses.cpp)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 895  |[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) |[PHP](./algorithms/php/895.MaximumFrequencyStack.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 926  |[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) |[PHP](./algorithms/php/926.FlipStringtoMonotoneIncreasing.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 937  |[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) |[PHP](./algorithms/php/937.ReorderDatainLogFiles.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 946  |[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) |[PHP](./algorithms/php/946.ValidateStackSequences.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
