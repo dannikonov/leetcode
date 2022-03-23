@@ -60,6 +60,7 @@ LeetCode
 | 926  |[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) |[PHP](./algorithms/php/926.FlipStringtoMonotoneIncreasing.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 937  |[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) |[PHP](./algorithms/php/937.ReorderDatainLogFiles.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 946  |[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) |[PHP](./algorithms/php/946.ValidateStackSequences.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 991  |[Broken Calculator](https://leetcode.com/problems/broken-calculator/) |[PHP](./algorithms/php/991.BrokenCalculator.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 1081  |[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/validate-stack-sequences/) |[PHP](./algorithms/php/1081.SmallestSubsequenceofDistinctCharacters.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 1007  |[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) |[PHP](./algorithms/php/1007.MinimumDominoRotationsForEqualRow.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 1189 |[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) |[PHP](./algorithms/php/1189.MaximumNumberofBalloons.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
