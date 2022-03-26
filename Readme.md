@@ -51,6 +51,7 @@ LeetCode
 | 598  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/) |[C++](./algorithms/cpp/598.RangeAdditionII.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 633  |[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) |[PHP](./algorithms/php/633.SumofSquareNumbers.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 653  |[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |[C++](./algorithms/cpp/653.TwoSumIV-InputisaBST.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 704  |[Binary Search](https://leetcode.com/problems/binary-search/) |[PHP](./algorithms/php/704.BinarySearch.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 740  |[Delete and Earn](https://leetcode.com/problems/delete-and-earn/) |[PHP](./algorithms/php/740.DeleteandEarn.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 763  |[Partition Labels](https://leetcode.com/problems/partition-labels/) |[PHP](./algorithms/php/763.PartitionLabels.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 799  |[Champagne Tower](https://leetcode.com/problems/champagne-tower/) |[PHP](./algorithms/php/799.ChampagneTower.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
