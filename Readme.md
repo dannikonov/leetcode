@@ -93,6 +93,7 @@ LeetCode
 | 2206 |[Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) |[PHP](./algorithms/php/2206.DivideArrayIntoEqualPairs.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 2208 |[Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) |[PHP](./algorithms/php/2208.MinimumOperationstoHalveArraySum.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 2210 |[Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) |[PHP](./algorithms/php/2210.CountHillsandValleysinanArray.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 2215 |[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) |[PHP](./algorithms/php/2215.FindtheDifferenceofTwoArrays.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 
 ### Database
 
