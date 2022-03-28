@@ -21,6 +21,7 @@ LeetCode
  | 71   |[Simplify Path](https://leetcode.com/problems/simplify-path/) |[PHP](./algorithms/php/71.SimplifyPath.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
  | 73   |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |[PHP](./algorithms/php/73.SetMatrixZeroes.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 78   |[Subsets](https://leetcode.com/problems/subsets/) |[PHP](./algorithms/php/78.Subsets.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 81   |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |[PHP](./algorithms/php/81.SearchinRotatedSortedArrayII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 82   |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |[PHP](./algorithms/php/82.RemoveDuplicatesfromSortedListII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 90   |[Subsets II](https://leetcode.com/problems/subsets-ii/) |[PHP](./algorithms/php/90.SubsetsII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 91   |[Decode Ways](https://leetcode.com/problems/decode-ways/) |[PHP](./algorithms/php/91.DecodeWays.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
