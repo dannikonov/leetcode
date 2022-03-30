@@ -20,6 +20,7 @@ LeetCode
  | 61   |[Rotate List](https://leetcode.com/problems/rotate-list/) |[PHP](./algorithms/php/61.RotateList.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
  | 71   |[Simplify Path](https://leetcode.com/problems/simplify-path/) |[PHP](./algorithms/php/71.SimplifyPath.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
  | 73   |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |[PHP](./algorithms/php/73.SetMatrixZeroes.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+ | 74   |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |[PHP](./algorithms/php/74.Searcha2DMatrix.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 78   |[Subsets](https://leetcode.com/problems/subsets/) |[PHP](./algorithms/php/78.Subsets.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 81   |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |[PHP](./algorithms/php/81.SearchinRotatedSortedArrayII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 82   |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |[PHP](./algorithms/php/82.RemoveDuplicatesfromSortedListII.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
