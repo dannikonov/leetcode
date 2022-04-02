@@ -42,6 +42,7 @@ LeetCode
 | 316  |[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |[PHP](./algorithms/php/316.RemoveDuplicateLetters.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 338  |[Counting Bits](https://leetcode.com/problems/counting-bits/) |[PHP](./algorithms/php/338.CountingBits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 344  |[Reverse String](https://leetcode.com/problems/reverse-string/) |[C++](./algorithms/cpp/344.ReverseString.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 374  |[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) |[PHP](./algorithms/php/374.GuessNumberHigherorLower.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 389  |[Find the Difference](https://leetcode.com/problems/find-the-difference/) |[PHP](./algorithms/php/389.FindtheDifference.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 392  |[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[PHP](./algorithms/php/392.IsSubsequence.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 410  |[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) |[PHP](./algorithms/php/415.AddStrings.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
