@@ -102,6 +102,8 @@ LeetCode
 | 2208 |[Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) |[PHP](./algorithms/php/2208.MinimumOperationstoHalveArraySum.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 2210 |[Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) |[PHP](./algorithms/php/2210.CountHillsandValleysinanArray.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 2215 |[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) |[PHP](./algorithms/php/2215.FindtheDifferenceofTwoArrays.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 2220 |[Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) |[PHP](./algorithms/php/2220.MinimumBitFlipstoConvertNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 2221 |[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) |[PHP](./algorithms/php/2221.FindTriangularSumofanArray.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 
 ### Database
 
