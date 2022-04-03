@@ -104,6 +104,8 @@ LeetCode
 | 2215 |[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) |[PHP](./algorithms/php/2215.FindtheDifferenceofTwoArrays.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 2220 |[Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) |[PHP](./algorithms/php/2220.MinimumBitFlipstoConvertNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 2221 |[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) |[PHP](./algorithms/php/2221.FindTriangularSumofanArray.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 2224 |[Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) |[PHP](./algorithms/php/2224.MinimumNumberofOperationstoConvertTime.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 2225 |[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) |[PHP](./algorithms/php/2225.FindPlayersWithZeroorOneLosses.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 
 ### Database
 
