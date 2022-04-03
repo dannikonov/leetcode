@@ -13,6 +13,7 @@ LeetCode
 | 20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |[PHP](./algorithms/php/20.ValidParentheses.php), [C++](./algorithms/cpp/20.ValidParentheses.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 21   |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[PHP](./algorithms/php/21.MergeTwoSortedLists.php), [C++](./algorithms/cpp/21.MergeTwoSortedLists.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 24   |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |[PHP](./algorithms/php/24.SwapNodesinPairs.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 31   |[Next Permutation](https://leetcode.com/problems/next-permutation/) |[PHP](./algorithms/php/31.NextPermutation.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 36   |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[PHP](./algorithms/php/36.ValidSudoku.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 39   |[Combination Sum](https://leetcode.com/problems/combination-sum/) |[PHP](./algorithms/php/39.CombinationSum.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 42   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |[PHP](./algorithms/php/42.TrappingRainWater.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
