@@ -65,6 +65,7 @@ LeetCode
 | 680  |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |[PHP](./algorithms/php/680.ValidPalindromeII.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 704  |[Binary Search](https://leetcode.com/problems/binary-search/) |[PHP](./algorithms/php/704.BinarySearch.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 740  |[Delete and Earn](https://leetcode.com/problems/delete-and-earn/) |[PHP](./algorithms/php/740.DeleteandEarn.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 744  |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) |[PHP](./algorithms/php/744.FindSmallestLetterGreaterThanTarget.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 763  |[Partition Labels](https://leetcode.com/problems/partition-labels/) |[PHP](./algorithms/php/763.PartitionLabels.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 799  |[Champagne Tower](https://leetcode.com/problems/champagne-tower/) |[PHP](./algorithms/php/799.ChampagneTower.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 850  |[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) |[C++](./algorithms/cpp/850.RectangleAreaII.cpp)|<span style="color: rgb(233, 30, 99)">Hard</span>|
