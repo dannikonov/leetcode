@@ -79,6 +79,7 @@ LeetCode
 | 991  |[Broken Calculator](https://leetcode.com/problems/broken-calculator/) |[PHP](./algorithms/php/991.BrokenCalculator.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 1007  |[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) |[PHP](./algorithms/php/1007.MinimumDominoRotationsForEqualRow.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 1029  |[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) |[PHP](./algorithms/php/1029.TwoCityScheduling.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 1046  |[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |[PHP](./algorithms/php/1046.LastStoneWeight.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 1081  |[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/validate-stack-sequences/) |[PHP](./algorithms/php/1081.SmallestSubsequenceofDistinctCharacters.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 1189 |[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) |[PHP](./algorithms/php/1189.MaximumNumberofBalloons.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 1235 |[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) |[PHP](./algorithms/php/1235.MaximumProfitinJobScheduling.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
