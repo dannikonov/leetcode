@@ -117,6 +117,8 @@ LeetCode
 | 2221 |[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) |[PHP](./algorithms/php/2221.FindTriangularSumofanArray.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 2224 |[Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) |[PHP](./algorithms/php/2224.MinimumNumberofOperationstoConvertTime.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 2225 |[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) |[PHP](./algorithms/php/2225.FindPlayersWithZeroorOneLosses.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 2231 |[Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) |[PHP](./algorithms/php/2231.LargestNumberAfterDigitSwapsbyParity.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 2233 |[Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/) |[PHP](./algorithms/php/2233.MaximumProductAfterKIncrements.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 
 ### Database
 
