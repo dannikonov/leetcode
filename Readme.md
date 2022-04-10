@@ -41,6 +41,7 @@ LeetCode
 | 171  |[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |[PHP](./algorithms/php/171.ExcelSheetColumnNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 257  |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |[PHP](./algorithms/php/257.BinaryTreePaths.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 258  |[Add Digits](https://leetcode.com/problems/add-digits/) |[PHP](./algorithms/php/258.AddDigits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) |[PHP](./algorithms/php/278.FirstBadVersion.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 287  |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |[PHP](./algorithms/php/287.FindtheDuplicateNumber.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 303  |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |[PHP](./algorithms/php/303.RangeSumQuery-Immutable.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 316  |[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |[PHP](./algorithms/php/316.RemoveDuplicateLetters.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
