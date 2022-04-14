@@ -70,6 +70,7 @@ LeetCode
 | 653  |[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |[C++](./algorithms/cpp/653.TwoSumIV-InputisaBST.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 680  |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |[PHP](./algorithms/php/680.ValidPalindromeII.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 682  |[Baseball Game](https://leetcode.com/problems/baseball-game/) |[PHP](./algorithms/php/682.BaseballGame.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 700  |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) |[C++](./algorithms/cpp/700.SearchinaBinarySearchTree.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 704  |[Binary Search](https://leetcode.com/problems/binary-search/) |[PHP](./algorithms/php/704.BinarySearch.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 740  |[Delete and Earn](https://leetcode.com/problems/delete-and-earn/) |[PHP](./algorithms/php/740.DeleteandEarn.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 744  |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) |[PHP](./algorithms/php/744.FindSmallestLetterGreaterThanTarget.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
