@@ -39,6 +39,7 @@ LeetCode
 | 141  |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |[PHP](./algorithms/php/141.LinkedListCycle.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 153  |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |[PHP](./algorithms/php/153.FindMinimuminRotatedSortedArray.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 165  |[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) |[PHP](./algorithms/php/165.CompareVersionNumbers.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 167  |[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |[PHP](./algorithms/php/167.TwoSumII-InputArrayIsSorted.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 169  |[Majority Element](https://leetcode.com/problems/majority-element/submissions/) |[PHP](./algorithms/php/169.MajorityElement.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 171  |[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |[PHP](./algorithms/php/171.ExcelSheetColumnNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 257  |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |[PHP](./algorithms/php/257.BinaryTreePaths.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
