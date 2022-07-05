@@ -33,6 +33,7 @@ LeetCode
 | 91   |[Decode Ways](https://leetcode.com/problems/decode-ways/) |[PHP](./algorithms/php/91.DecodeWays.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 104  |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[PHP](./algorithms/php/104.MaximumDepthofBinaryTree.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 121  |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) |[PHP](./algorithms/php/121.BestTimetoBuyandSellStock.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 128  |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JS](./algorithms/js/128.LongestConsecutiveSequence.js)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 133  |[Clone Graph](https://leetcode.com/problems/clone-graph/) |[PHP](./algorithms/php/133.CloneGraph.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 138  |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[C++](./algorithms/cpp/138.CopyListwithRandomPointer.cpp)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 136  |[Single Number](https://leetcode.com/problems/single-number/) |[PHP](./algorithms/php/136.SingleNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
