@@ -54,7 +54,7 @@ LeetCode
 | 347  |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |[PHP](./algorithms/php/347.TopKFrequentElements.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 350  |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |[PHP](./algorithms/php/350.IntersectionofTwoArraysII.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 367  |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) |[PHP](./algorithms/php/367.ValidPerfectSquare.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
-| 374  |[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) |[PHP](./algorithms/php/374.GuessNumberHigherorLower.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 374  |[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) |[PHP](./algorithms/php/374.GuessNumberHigherorLower.php), [C++](./algorithms/cpp/374.GuessNumberHigherorLower.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 376  |[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) |[PHP](./algorithms/php/376.WiggleSubsequence.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 389  |[Find the Difference](https://leetcode.com/problems/find-the-difference/) |[PHP](./algorithms/php/389.FindtheDifference.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 392  |[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[PHP](./algorithms/php/392.IsSubsequence.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
