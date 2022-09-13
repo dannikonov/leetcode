@@ -58,6 +58,7 @@ LeetCode
 | 376  |[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) |[PHP](./algorithms/php/376.WiggleSubsequence.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 389  |[Find the Difference](https://leetcode.com/problems/find-the-difference/) |[PHP](./algorithms/php/389.FindtheDifference.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 392  |[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[PHP](./algorithms/php/392.IsSubsequence.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 393  |[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) |[PHP](./algorithms/php/393.UTF-8Validation.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 410  |[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) |[PHP](./algorithms/php/415.AddStrings.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 415  |[Add Strings](https://leetcode.com/problems/add-strings/) |[PHP](./algorithms/php/415.AddStrings.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 438  |[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |[PHP](./algorithms/php/438.FindAllAnagramsinaString.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
