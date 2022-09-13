@@ -15,8 +15,8 @@ LeetCode
 | 21   |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[PHP](./algorithms/php/21.MergeTwoSortedLists.php), [C++](./algorithms/cpp/21.MergeTwoSortedLists.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 24   |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |[PHP](./algorithms/php/24.SwapNodesinPairs.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 31   |[Next Permutation](https://leetcode.com/problems/next-permutation/) |[PHP](./algorithms/php/31.NextPermutation.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
-| 35   |[Search Insert Position](https://leetcode.com/problems/search-insert-position/) |[PHP](./algorithms/php/35.SearchInsertPosition.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 34   |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |[PHP](./algorithms/php/34.FindFirstandLastPositionofElementinSortedArray.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 35   |[Search Insert Position](https://leetcode.com/problems/search-insert-position/) |[PHP](./algorithms/php/35.SearchInsertPosition.php), [C++](./algorithms/cpp/35.SearchInsertPosition.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 36   |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[PHP](./algorithms/php/36.ValidSudoku.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 39   |[Combination Sum](https://leetcode.com/problems/combination-sum/) |[PHP](./algorithms/php/39.CombinationSum.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 42   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |[PHP](./algorithms/php/42.TrappingRainWater.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
