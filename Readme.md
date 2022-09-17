@@ -43,6 +43,7 @@ LeetCode
 | 167  |[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |[PHP](./algorithms/php/167.TwoSumII-InputArrayIsSorted.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 169  |[Majority Element](https://leetcode.com/problems/majority-element/submissions/) |[PHP](./algorithms/php/169.MajorityElement.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 171  |[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |[PHP](./algorithms/php/171.ExcelSheetColumnNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 189  |[Rotate Array](https://leetcode.com/problems/rotate-array/) |[PHP](./algorithms/php/189.RotateArray.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 257  |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |[PHP](./algorithms/php/257.BinaryTreePaths.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 258  |[Add Digits](https://leetcode.com/problems/add-digits/) |[PHP](./algorithms/php/258.AddDigits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) |[PHP](./algorithms/php/278.FirstBadVersion.php), [C++](./algorithms/cpp/278.FirstBadVersion.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
