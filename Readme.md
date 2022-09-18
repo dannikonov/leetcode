@@ -19,7 +19,7 @@ LeetCode
 | 35   |[Search Insert Position](https://leetcode.com/problems/search-insert-position/) |[PHP](./algorithms/php/35.SearchInsertPosition.php), [C++](./algorithms/cpp/35.SearchInsertPosition.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 36   |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[PHP](./algorithms/php/36.ValidSudoku.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 39   |[Combination Sum](https://leetcode.com/problems/combination-sum/) |[PHP](./algorithms/php/39.CombinationSum.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
-| 42   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |[PHP](./algorithms/php/42.TrappingRainWater.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
+| 42   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |[PHP](./algorithms/php/42.TrappingRainWater.php), [C++](./algorithms/cpp/42.TrappingRainWater.cpp)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 49   |[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[PHP](./algorithms/php/49.GroupAnagrams.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 61   |[Rotate List](https://leetcode.com/problems/rotate-list/) |[PHP](./algorithms/php/61.RotateList.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 69   |[Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[PHP](./algorithms/php/69.Sqrt(x).php), [C++](./algorithms/cpp/69.Sqrt(x).cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
