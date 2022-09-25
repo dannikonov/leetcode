@@ -74,6 +74,7 @@ LeetCode
 | 567  |[Permutation in String](https://leetcode.com/problems/permutation-in-string/) |[PHP](./algorithms/php/567.PermutationinString.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 598  |[Range Addition II](https://leetcode.com/problems/range-addition-ii/) |[C++](./algorithms/cpp/598.RangeAdditionII.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 609  |[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) |[PHP](./algorithms/php/609.FindDuplicateFileinSystem.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 622  |[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) |[PHP](./algorithms/php/622.DesignCircularQueue.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 633  |[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) |[PHP](./algorithms/php/633.SumofSquareNumbers.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 653  |[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |[C++](./algorithms/cpp/653.TwoSumIV-InputisaBST.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 680  |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |[PHP](./algorithms/php/680.ValidPalindromeII.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
