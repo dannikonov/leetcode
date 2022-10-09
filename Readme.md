@@ -77,7 +77,7 @@ LeetCode
 | 609  |[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) |[PHP](./algorithms/php/609.FindDuplicateFileinSystem.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 622  |[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) |[PHP](./algorithms/php/622.DesignCircularQueue.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 633  |[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) |[PHP](./algorithms/php/633.SumofSquareNumbers.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
-| 653  |[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |[C++](./algorithms/cpp/653.TwoSumIV-InputisaBST.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 653  |[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |[JS](./algorithms/js/300.LongestIncreasingSubsequence.js), [C++](./algorithms/cpp/653.TwoSumIV-InputisaBST.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 680  |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |[PHP](./algorithms/php/680.ValidPalindromeII.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 682  |[Baseball Game](https://leetcode.com/problems/baseball-game/) |[PHP](./algorithms/php/682.BaseballGame.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 700  |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) |[C++](./algorithms/cpp/700.SearchinaBinarySearchTree.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
