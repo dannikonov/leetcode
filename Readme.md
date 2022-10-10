@@ -105,6 +105,7 @@ LeetCode
 | 1189 |[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) |[PHP](./algorithms/php/1189.MaximumNumberofBalloons.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 1235 |[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) |[PHP](./algorithms/php/1235.MaximumProfitinJobScheduling.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 1249 |[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) |[PHP](./algorithms/php/1249.MinimumRemovetoMakeValidParentheses.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 1328 |[Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) |[JS](./algorithms/js/1328.BreakaPalindrome.js)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 1337 |[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) |[PHP](./algorithms/php/1337.TheKWeakestRowsinaMatrix.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 1339 |[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/), |[C++](./algorithms/cpp/1339.MaximumProductofSplittedBinaryTree.cpp)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 1346 |[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) |[PHP](./algorithms/php/1346.CheckIfNandItsDoubleExist.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
