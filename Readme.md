@@ -10,7 +10,7 @@ LeetCode
 | 4    |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[PHP](./algorithms/php/4.MedianofTwoSortedArrays.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 7    |[Reverse Integer](https://leetcode.com/problems/reverse-integer/) |[PHP](./algorithms/php/7.ReverseInteger.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 9    |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[PHP](./algorithms/php/9.PalindromeNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
-| 11    |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |[PHP](./algorithms/php/11.ContainerWithMostWater.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 11   |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |[PHP](./algorithms/php/11.ContainerWithMostWater.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |[PHP](./algorithms/php/20.ValidParentheses.php), [C++](./algorithms/cpp/20.ValidParentheses.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 21   |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[PHP](./algorithms/php/21.MergeTwoSortedLists.php), [C++](./algorithms/cpp/21.MergeTwoSortedLists.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 24   |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |[PHP](./algorithms/php/24.SwapNodesinPairs.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
@@ -99,10 +99,10 @@ LeetCode
 | 948  |[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) |[PHP](./algorithms/php/948.BagofTokens.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 977  |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |[PHP](./algorithms/php/977.SquaresofaSortedArray.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 991  |[Broken Calculator](https://leetcode.com/problems/broken-calculator/) |[PHP](./algorithms/php/991.BrokenCalculator.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
-| 1007  |[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) |[PHP](./algorithms/php/1007.MinimumDominoRotationsForEqualRow.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
-| 1029  |[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) |[PHP](./algorithms/php/1029.TwoCityScheduling.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
-| 1046  |[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |[PHP](./algorithms/php/1046.LastStoneWeight.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
-| 1081  |[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/validate-stack-sequences/) |[PHP](./algorithms/php/1081.SmallestSubsequenceofDistinctCharacters.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 1007 |[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) |[PHP](./algorithms/php/1007.MinimumDominoRotationsForEqualRow.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 1029 |[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) |[PHP](./algorithms/php/1029.TwoCityScheduling.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 1046 |[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |[PHP](./algorithms/php/1046.LastStoneWeight.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 1081 |[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/validate-stack-sequences/) |[PHP](./algorithms/php/1081.SmallestSubsequenceofDistinctCharacters.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 1189 |[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) |[PHP](./algorithms/php/1189.MaximumNumberofBalloons.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 1235 |[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) |[PHP](./algorithms/php/1235.MaximumProfitinJobScheduling.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 1249 |[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) |[PHP](./algorithms/php/1249.MinimumRemovetoMakeValidParentheses.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
