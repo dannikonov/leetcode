@@ -163,7 +163,7 @@ LeetCode
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./database/182.DuplicateEmails.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[SQL](./database/183.CustomersWhoNeverOrder.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[SQL](./database/183.CustomersWhoNeverOrder.sql)|<span style="color: rgb(233, 30, 99)">Hard</span>|
-|196|[DeleteDuplicateEmails.sql](https://leetcode.com/problems/delete-duplicate-emails/)|[SQL](./database/196.DeleteDuplicateEmails.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[SQL](./database/196.DeleteDuplicateEmails.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[SQL](./database/197.RisingTemperature.sql)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 
 ### Shell
