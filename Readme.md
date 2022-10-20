@@ -11,6 +11,7 @@ LeetCode
 | 7    |[Reverse Integer](https://leetcode.com/problems/reverse-integer/) |[PHP](./algorithms/php/7.ReverseInteger.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 9    |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[PHP](./algorithms/php/9.PalindromeNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 11   |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |[PHP](./algorithms/php/11.ContainerWithMostWater.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 12   |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |[PHP](./algorithms/php/12.IntegertoRoman.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |[PHP](./algorithms/php/20.ValidParentheses.php), [C++](./algorithms/cpp/20.ValidParentheses.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 21   |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[PHP](./algorithms/php/21.MergeTwoSortedLists.php), [C++](./algorithms/cpp/21.MergeTwoSortedLists.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 24   |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |[PHP](./algorithms/php/24.SwapNodesinPairs.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
