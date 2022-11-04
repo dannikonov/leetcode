@@ -56,6 +56,7 @@ LeetCode
 | 334  |[Increasing Triplet Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |[JS](./algorithms/js/334.IncreasingTripletSubsequence.js)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 338  |[Counting Bits](https://leetcode.com/problems/counting-bits/) |[PHP](./algorithms/php/338.CountingBits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 344  |[Reverse String](https://leetcode.com/problems/reverse-string/) |[C++](./algorithms/cpp/344.ReverseString.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 345  |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) |[PHP](./algorithms/php/345.ReverseVowelsofaString.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 347  |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |[PHP](./algorithms/php/347.TopKFrequentElements.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 350  |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |[PHP](./algorithms/php/350.IntersectionofTwoArraysII.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 367  |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) |[PHP](./algorithms/php/367.ValidPerfectSquare.php), [C++](./algorithms/cpp/367.ValidPerfectSquare.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
