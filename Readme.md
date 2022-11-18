@@ -49,6 +49,7 @@ LeetCode
 | 189  |[Rotate Array](https://leetcode.com/problems/rotate-array/) |[PHP](./algorithms/php/189.RotateArray.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 257  |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |[PHP](./algorithms/php/257.BinaryTreePaths.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 258  |[Add Digits](https://leetcode.com/problems/add-digits/) |[PHP](./algorithms/php/258.AddDigits.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 263   |[Ugly Number](https://leetcode.com/problems/ugly-number/) |[PHP](./algorithms/php/263.UglyNumber.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) |[PHP](./algorithms/php/278.FirstBadVersion.php), [C++](./algorithms/cpp/278.FirstBadVersion.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 287  |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |[PHP](./algorithms/php/287.FindtheDuplicateNumber.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 300  |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |[JS](./algorithms/js/300.LongestIncreasingSubsequence.js)|<span style="color: rgb(239, 108, 0)">Medium</span>|
