@@ -111,6 +111,7 @@ LeetCode
 | 1046 |[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |[PHP](./algorithms/php/1046.LastStoneWeight.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 1081 |[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/validate-stack-sequences/) |[PHP](./algorithms/php/1081.SmallestSubsequenceofDistinctCharacters.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 1189 |[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) |[PHP](./algorithms/php/1189.MaximumNumberofBalloons.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 1207 |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) |[PHP](./algorithms/php/1207.UniqueNumberofOccurrences.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 1235 |[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) |[PHP](./algorithms/php/1235.MaximumProfitinJobScheduling.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 1249 |[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) |[PHP](./algorithms/php/1249.MinimumRemovetoMakeValidParentheses.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 1323 |[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) |[PHP](./algorithms/php/1323.Maximum69Number.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
