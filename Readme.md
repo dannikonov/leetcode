@@ -96,13 +96,14 @@ LeetCode
 | 852  |[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[PHP](./algorithms/php/852.PeakIndexinaMountainArray.php), [C++](./algorithms/cpp/852.PeakIndexinaMountainArray.cpp)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 856  |[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) |[PHP](./algorithms/php/856.ScoreofParentheses.php), [C++](./algorithms/cpp/856.ScoreofParentheses.cpp)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 867  |[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) |[PHP](./algorithms/php/867.TransposeMatrix.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 872  |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) |[PHP](./algorithms/php/872.Leaf-SimilarTrees.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 876  |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |[PHP](./algorithms/php/876.MiddleoftheLinkedList.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 881  |[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) |[PHP](./algorithms/php/881.BoatstoSavePeople.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 895  |[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) |[PHP](./algorithms/php/895.MaximumFrequencyStack.php)|<span style="color: rgb(233, 30, 99)">Hard</span>|
 | 901  |[Online Stock Span](https://leetcode.com/problems/online-stock-span/) |[PHP](./algorithms/php/901.OnlineStockSpan.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 926  |[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) |[PHP](./algorithms/php/926.FlipStringtoMonotoneIncreasing.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 937  |[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) |[PHP](./algorithms/php/937.ReorderDatainLogFiles.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
-| 938  |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) |[PHP](./algorithms/php/938.RangeSumofBST.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
+| 938  |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |[PHP](./algorithms/php/938.RangeSumofBST.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 946  |[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) |[PHP](./algorithms/php/946.ValidateStackSequences.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 948  |[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) |[PHP](./algorithms/php/948.BagofTokens.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 976  |[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) |[JS](./algorithms/js/976.LargestPerimeterTriangle.js)|<span style="color: rgb(67, 160, 71)">Easy</span>|
