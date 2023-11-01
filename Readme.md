@@ -162,6 +162,7 @@ LeetCode
 | 2225 |[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) |[PHP](./algorithms/php/2225.FindPlayersWithZeroorOneLosses.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
 | 2231 |[Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) |[PHP](./algorithms/php/2231.LargestNumberAfterDigitSwapsbyParity.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 | 2233 |[Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/) |[PHP](./algorithms/php/2233.MaximumProductAfterKIncrements.php)|<span style="color: rgb(239, 108, 0)">Medium</span>|
+| 2433 |[Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) |[PHP](./algorithms/php/2433.FindTheOriginalArrayofPrefixXor.php)|<span style="color: rgb(67, 160, 71)">Easy</span>|
 
 ### Database
 
